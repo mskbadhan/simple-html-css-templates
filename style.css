@@ -1,0 +1,116 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#EEF3FA;
+	font-family:Arial;
+	font-size:15px;
+	line-height:24px;
+}
+/*container area*/
+.container{
+	background-color:#FFFFFF;
+	width:960px;
+	margin:5px auto;
+	overflow:hidden;
+}
+/*top area*/
+.top{
+	
+}
+.description{
+	background:url(images/des_bg.png);
+	background-repeat:repeat-x;
+	padding:30px 30px;
+	max-width:75%;
+}
+.description h1{
+	font-size:40px;
+	color:#FFFCFF;
+	line-height:52px;
+}
+.description p{
+	font-size:17px;
+	color:#FFFCFF;
+}
+.right_logo{
+	margin-left:167px;
+	max-width:25%;
+	color:#5DBFD8;
+}
+.right_logo p{
+	padding-top:5px;
+	padding-bottom:5px;
+	text-align:right;
+	font-size:16px;
+}
+.right_logo{
+
+}
+.description,.right_logo{
+	float:left;
+	overflow:hidden;
+	
+}
+.slider{
+	overflow:hidden;
+	width:100%;
+	
+	
+}
+.slider img{
+	width:100%;
+	height:400px;
+	margin-top:50px;
+}
+
+#content{
+	float:left;
+	max-width:33%;
+	margin-top:30px;
+}
+.do{
+	margin-left:20px;
+	margin-right:20px;
+}
+.choose{
+	margin-right:10px;
+}
+.guarantee img{
+	width:250px;
+	height:200px;
+}
+
+.footer_area{
+	
+
+	
+}
+.left_f fieldset{
+	float:left;
+	margin-left:-110px;
+	border:1px solid #75C1D9;
+}
+.left_f{
+	margin-top:50px;
+}
+.left_f img{
+	width:100px;
+	height:100px;
+}
+.left_f legend img{
+	width:30px;
+	height:30px;
+	margin-left:100px;
+}
+.right_f{
+	margin-left:20px;
+	margin-top:20px;
+}
+.left_f fieldset legend{
+	color:#75C1D9;
+}
+.left_f img,.left_f p{
+
+}
